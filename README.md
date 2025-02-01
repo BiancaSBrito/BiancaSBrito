@@ -1,8 +1,8 @@
 ##### Sobre mim. 🤙
 ##
 
-E ai gente, eu sou a Bianca, tenho 28 anos sou de Recife e fissurada em jogos online e tecnologia.
-Atualmente em transição de área com foco em Desenvolvimento Front-End.
+E ai gente, eu sou a Bianca, tenho 28 anos sou de Recife e fissurada em jogos online e tecnologia. 
+Atualmente estudo análise e desenvolvimento de sistemas com foco em Desenvolvimento Front-End.
 
    
 <div style="display: inline_block"><br/>
