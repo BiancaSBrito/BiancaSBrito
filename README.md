@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bianca Brito.
+#### 👩🏻‍💻 Bianca Brito.
 **`Desenvolvedora Front-End.`**
 
 E ai gente, eu sou a Bianca, tenho 28 anos e fissurada em jogos online e tecnologia. Começei a gostar da área de tecnologia mais afundo quando tive o primeiro contato com o jogo GTA RP, peguei um encanto pela área de dados e da linguagem Lua usadas para criação de servidores no FiveM. Em meio a tantas possibilidades no mundo da programação, optei pelo front-end.
@@ -6,11 +6,46 @@ E ai gente, eu sou a Bianca, tenho 28 anos e fissurada em jogos online e tecnolo
 Atualmente, estudo análise e desenvolvimento de sistemas com foco em desenvolvimento front-end, e aprimoramento das seguintes tecnologias: JavaScript, HTML5, CSS. Estou constantimente aprimorando minhas habilidades e buscando novos desafios para expandir meus conhecimentos na área de desenvolvimento front-end.
 
    
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</div> 
+---
+
+#### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  
+/>
+<br/>
+<br/>
+
+
 
 ##
 ![Bianca GitHub stats](https://github-readme-stats.vercel.app/api?username=biancasbrito&show_icons=true&theme=darcula)
