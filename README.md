@@ -1,4 +1,4 @@
-##### Sobre mim. 🤙
+##### 👩🏻‍💻 Bianca Brito.
 ##
 
 E ai gente, eu sou a Bianca, tenho 28 anos e fissurada em jogos online e tecnologia. Começei a gostar da área de tecnologia mais afundo quando tive o primeiro contato com o jogo GTA RP, peguei um encanto pela área de dados e da linguagem Lua usadas para criação de servidores no FiveM. Em meio a tantas possibilidades no mundo da programação, optei pelo front-end.
