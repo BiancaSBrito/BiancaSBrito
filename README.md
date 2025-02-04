@@ -3,7 +3,7 @@
 
 #### E ai gente, eu sou a Bianca, tenho 28 anos e fissurada em jogos online e tecnologia. Comecei a gostar de tecnologia mais afundo quando tive o primeiro contato com o jogo GTA RP, fiquei encantada pela área de dados e da linguagem Lua, usadas para criação de servidores no FiveM. Em meio a tantas possibilidades no mundo da programação, optei pelo front-end.
 
-#### Atualmente, estudo análise e desenvolvimento de sistemas com foco em desenvolvimento front-end, e aprimoramento das seguintes tecnologias: JavaScript, HTML5, CSS. Estou constantemente aprimorando minhas habilidades e buscando novos desafios para expandir meus conhecimentos na área de desenvolvimento front-end.
+#### Atualmente, estudo análise e desenvolvimento de sistemas com foco em desenvolvimento front-end, e aprimoramento das seguintes tecnologias: JavaScript, HTML5, CSS. Estou constantemente aperfeiçoamento das minhas habilidades e buscando novos desafios para expandir meus conhecimentos na área.
 
 ##
 <div>
